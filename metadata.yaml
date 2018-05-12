@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7752
     wikipedia: http://www.vansandick.com/familie/links/bwnra.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18016#In-Het-Rijk-van-Vulcaande-Uitbarsting-van-Krakatau-en-Hare-Gevolgen
 gutenberg_issued: '2006-03-19'
 gutenberg_type: Text
 identifiers:
