@@ -1,0 +1,29 @@
+_repo: In-Het-Rijk-van-Vulcaande-Uitbarsting-van-Krakatau-en-Hare-Gevolgen_18016
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sandick, R. A. (Rudolf Adriaan) van
+    birthdate: 1855
+    deathdate: 1933
+    gutenberg_agent_id: '7752'
+    url: http://www.gutenberg.org/2009/agents/7752
+    wikipedia: http://www.vansandick.com/familie/links/bwnra.htm
+description: ''
+gutenberg_issued: '2006-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18016'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Krakatoa (Indonesia) -- Eruption, 1883'
+title: 'In Het Rijk van Vulcaan
+
+  de Uitbarsting van Krakatau en Hare Gevolgen'
+url: http://www.gutenberg.org/ebooks/18016
